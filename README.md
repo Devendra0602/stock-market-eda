@@ -134,7 +134,7 @@ Phase 5 → Business Insights & Recommendations
 
 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-market-eda.git
+git clone https://github.com/Devendra0602/stock-market-eda.git
 cd stock-market-eda
 ```
 
@@ -156,9 +156,10 @@ jupyter notebook Stock_Market_EDA.ipynb
 
 ## 👤 Author
 **Devendra**
-- 📧 [Your Email]
-- 💼 [Your LinkedIn URL]
-- 🐙 [Your GitHub URL]
+- 📧 [patil.devendra062@gmail.com]
+- 💼 [https://www.linkedin.com/in/patil-devendra2701/]
+- 🐙 [https://github.com/Devendra0602]
+
 
 ---
 
